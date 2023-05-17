@@ -1,0 +1,9 @@
+https://khaledm0hameed.github.io/Web-Site-shop/https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700;800;900&display=swap
+https://khaledm0hameed.github.io/Web-Site-shop/css/bootstrap.min.css
+https://khaledm0hameed.github.io/Web-Site-shop/css/font-awesome.min.css
+https://khaledm0hameed.github.io/Web-Site-shop/css/elegant-icons.css
+https://khaledm0hameed.github.io/Web-Site-shop/css/magnific-popup.css
+https://khaledm0hameed.github.io/Web-Site-shop/css/nice-select.css
+https://khaledm0hameed.github.io/Web-Site-shop/css/owl.carousel.min.css
+https://khaledm0hameed.github.io/Web-Site-shop/css/slicknav.min.css
+https://khaledm0hameed.github.io/Web-Site-shop/css/style.css
